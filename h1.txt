@@ -1,0 +1,64 @@
+1) HTML = web languge
+2)
+  <html>
+<head>
+    <title>Is Description For My First Page</title> 
+</head>
+<style> </style>
+<script></script>
+<link rel="stylesheet"  href="">
+
+<body>
+
+</body>
+<audio src="" ></audio>
+This Is My First Page
+
+
+</html>
+
+
+ 3)
+Question 01 => No
+Question 02 => Yes 
+Question 03 =>  No
+Question 04 =>  No
+
+4)
+<html>
+<head>
+
+
+    <!--Meta Tag :
+  For Defining The Content Encoding-->
+<meta charset="UTF-8" />
+
+
+
+<!--  meta tag :
+   for give the user a descriotion for ur page-->
+ <meta name="description" content="this is dracola page"/>
+
+
+
+<!--meta tag : 
+    tell the name of the author -->
+ <meta name="author" content="dracola" />
+
+
+
+<!--meta tag:
+  to tell the user that u have materials that have copyrights-->
+ <meta name="copyrights" content="dracola's third page"/>
+
+    <title>Is Description For My First Page</title> 
+</head>
+
+<body>
+
+</body>
+
+Booo
+
+
+</html>

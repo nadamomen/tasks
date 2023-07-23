@@ -1,0 +1,177 @@
+1)
+<html>
+<head>
+
+
+    <title>Is Description For My First Page</title> 
+</head>
+
+<body>
+
+</body>
+
+<h1>my info</h1>
+<p>my name is : <b>nada momen </b></p>
+<p> Iam <strong>Available</strong> for hire</p>
+<p>my hour old price is <del>$10</del> but now <mark>$500</mark> </p>
+
+<p>
+    visit my wep site <a href="https://codeforces.com/profile/nada_momen" target="_blank" >nada_momen</a>
+</p>
+<hr>
+<h1>there are some of my clients</h1>
+
+<img decoding="async" src="https://via.placeholder.com/50x50/7FFFD4" alt="">
+<img decoding="async" src="https://via.placeholder.com/50x50/964B00" alt="">
+<img decoding="async" src="https://via.placeholder.com/50x50/FFC0CB" alt="">
+<hr>
+<h1>My Skills</h1>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JS
+ 
+    <ul>
+   <li>Vuejs</li>
+   <li> Reactjs</li>
+   <li>
+    Angular
+    <ol start = 4>
+        <li>v4.0 </li>
+        <li>v5.0 </li>
+        <li>v6.0 </li>
+        <li>v7.0 </li>
+        <li>v8.0 </li>
+    </ul>
+   </li>
+   <li>Svelte</li>
+
+
+    </ul>
+
+
+
+</li>
+
+<li>Python</li>
+
+
+
+</ol>
+
+
+
+</html>
+
+2)
+<html>
+<head>
+
+
+    <title>Is Description For My First Page</title> 
+</head>
+
+<body>
+
+</body>
+
+<ul>
+<li>One
+    <ol start = C>
+        <li>C</li>
+        <li>D</li>
+        <li>E</li></li>
+     </ol>
+
+
+<li>Two <ol start="III">
+        <li>3</li>
+        <li>5</li>
+        <li>5</li>
+
+         </ol>
+</li>
+
+
+<li>Three
+    <ol start =d>
+   <li>d</li>
+   <li>c</li>
+   <li>b</li>
+
+    </ol>
+</li>
+
+
+</ul>
+
+
+
+
+
+</html>
+
+
+
+
+
+3)
+<html>
+<head>
+
+
+    <title>Is Description For My First Page</title> 
+</head>
+
+<body>
+
+
+
+<img src ="" alt="">
+
+<a href ="chrome://newtab/" target="_blank">Google</a>
+    <a href ="https://Google.com"title="go to Goole">Google</a>
+        <a href ="file:///D:/my.projects/test">test page</a>
+            <a href ="#nada" title="go to nada">nada paragraph</a>
+
+<p id="nada">حسبي الله ف البرمجه</p>
+
+</body>
+</html>
+
+
+
+
+4) <html>
+<head>
+   
+</head>
+<body>
+  <!-- <h5> -->
+    <dl>
+<dt>Learn Programming</dt>
+<dd>Learn computer science</dd>
+<dd>Learn Database</dd>
+
+
+  </dl>
+ <!-- </h5> -->
+ <!-- <h5> -->
+  <dl>
+    <dt>desin</dt>
+    <dd>Learn graphics</dd>
+    <dd>Learn sketching</dd>
+    
+    
+      </dl>
+<!-- </h5> -->
+
+
+
+
+
+
+
+
+</body>
+</html>

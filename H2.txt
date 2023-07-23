@@ -1,0 +1,76 @@
+1)
+1-<meta charset="UTF-8" />
+2-quirks mode
+3-yes
+4-no
+5-font degree
+
+
+2) no
+3) no
+4) yes
+5)
+title y
+href no  
+src no 
+hidden y
+charset no
+class y
+id y 
+type no
+
+6)<html>
+<head>
+    <meta charset='utf-8'>
+    <title>EL-Haj ahmed</title>
+    <meta name='description' content='it is a market'>
+    
+</head>
+<body>
+    <p>EL-Haj ahmed</p>
+    <h7>"هذا من فضل ربي"</h7>
+    <h1>ftuits</h1>
+    <h3> apple</h3>
+    <p>apple is very healthy</p>
+    <hr>
+    <h3> watermelon</h3>
+    <p>watermelon is very healthy</p>
+    <hr>
+    <h3> Strawberry</h3>
+    <p>its red</p>
+    <hr>
+
+    <h1>vegtables</h1>
+    <h3> lemon</h3>
+    <p>lemon  is very healthy</p>
+    <hr>
+    <h3> watercress</h3>
+    <p>watercress is very healthy</p>
+    <hr>
+    <h3> tomato </h3>
+    <p>its red</p></body>
+</html>
+
+
+
+7)<html>
+<head>
+
+
+    <title>Is Description For My First Page</title> 
+</head>
+
+<body>
+
+</body>
+
+<h2>My Project</h2> 
+<p>This is my page</p>
+<p>This is my first work</p>
+<h2>section one</h2>
+<h7>This is section one</h7>
+
+
+
+
+</html>
